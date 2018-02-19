@@ -5,7 +5,7 @@
 
 # Description
 Grocery List displays a list of groceries and their quantity from the database upon initial load.
-It allos users to add more groceries to the database and immediately displays new ones added.
+It allows users to add more groceries to the database and immediately displays new ones added.
 
 # Instructions
 1. Perform a Git Fork on the repository
